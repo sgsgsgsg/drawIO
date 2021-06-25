@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T06:47:14.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="HC8v6BHcYHarvFTpXQpq" version="12.9.6" type="github"><diagram id="JXCHo4Jb7-5_XRBAKlKE" name="第1頁">7Vlbb+I4FP41fqTK/fKYcOmMVFZMi3Z2n1aGuMG7TpxxDIX++rUTBwhOEN3pIK1Aqqj9+fhyzne+EweAPcy2jwwWqylNEAGWkWyBPQKWZTqWBeSfkexqxDe9GkgZTpTRAXjB70iBhkLXOEFly5BTSjgu2uCS5jla8hYGGaNvbbNXStq7FjBFGvCyhERHv+OEr2o0sPwD/gXhdNXsbHphPZLBxlh5Uq5gQt+OIHsM7CGjlNetbDtERAaviUs9b9Izuj8YQzm/ZMLQKr7M0SaaP5LBuORPXwfRj4Fpq8PxXeMxo+s8QXKSAeyYMr6iKc0heaK0EKApwL8R5zvFFVxzKqAVz4gaRVvM/5DTH1zV+/NoZLRVK1edXdPJk0iyJbo5zVGNTDAhalx3Vvlf0jVbonMeqqSBLEX8nJ1KVJS0EkLF8hHRDHG2EwYMEcjxpp0fUKVZurc7MCEaioyPEFOvu4FkrXZ6nk9fNLLKN5wRWAWsN0QbxDjagrZaCIFFiZKznjZzApXBSsKWq/pvB0H4ClodacGy+2OjNnsWkoV5Krz50G6W0bFdc4RmO0g4YjnkKJYJXWqM7B39CZIMjSUwdkEwArENxh4IQxAIJAChBUIDjEMQxiDw5FAk2pPKeAJiMeSD0AFRPd0HcVRNd0EcyFkCCSrj2AeRW9lUbcsjwvl4wUQr5fscOMoPQTxvqxMSnOaiTdCrHJHJgUW5ixSc4SSRk2OGSvwOF9VCUoEFxTmvQuvGwB3JlYTyy7oIyIVLzug/aEgJZQcV4+y4QAqSGiwqi7pcy6kELhCZicU4pvIQS5HCiB2d7unE4HDKVrHal1jZgWypSpSQtuguSkrWHEV7uLuunFXjqZJ6NWO1k9jWc9j0uiRj9Evm58qJ8wn15EOh+WCRCdsBG9xrTBNf915jbqPGOD1K+v8UGUtP1dNkgQ0nr3grY3qcNh30q4zZk1XxKv6/0pwfR17hI5yl4ugEL8QnfF8zJF3KYC5GM7HGXyndSMHm4spoTaZwucI5KiNpKDh7KDfpeb4vv2P136bC8MHx28SZOnO2+WB4OndO8Ku48zTupuNPum/2xsI+yWAr6EhhtyOF3TMp3F/2bftkO++/PWSuUPUtXUrj59m16Wgcv9Nh63R8+6zXsYv5cIy7PBQf+nV2HF1bHk5HfG6UDv2O+jz81epwwjsdPXToz/L5bDS9Nh/3atXw4Wt8zJ6uLY/73WpPR6A/PEbDK9Nh+jd4txpkRVpupkn5wy5/I5axCKffOr7p/v3rKLpAHh1fOWkUXfru7NygODrZ0N875sIZel02zFt8dHTSob93zEaT8sps3MDFSnQPv8TW5offs+3xvw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-25T06:50:18.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="dIRKdQALcrehQfk1lsnl" version="12.9.6" type="github">
+  <diagram id="JXCHo4Jb7-5_XRBAKlKE" name="第1頁">
+    <mxGraphModel dx="1422" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C2pHTevATGl-EstLI-Aq-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="C2pHTevATGl-EstLI-Aq-1" target="C2pHTevATGl-EstLI-Aq-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-1" value="RTMS" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="170" y="52" width="70" height="23" as="geometry">
+            <mxRectangle x="180" y="250" width="200" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-10" value="即時蒐集機台產出數量工具&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;imageHeight=227;imageAspect=1;labelPosition=center;verticalLabelPosition=middle;rounded=0;shadow=0;arcSize=12;absoluteArcSize=0;" parent="C2pHTevATGl-EstLI-Aq-1" vertex="1">
+          <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-14" value="RTMS" style="swimlane;" parent="C2pHTevATGl-EstLI-Aq-1" vertex="1" collapsed="1">
+          <mxGeometry x="90" y="-50" width="70" height="23" as="geometry">
+            <mxRectangle x="180" y="250" width="200" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-15" value="即時蒐集機台產出數量工具&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;imageHeight=227;imageAspect=1;labelPosition=center;verticalLabelPosition=middle;rounded=0;shadow=0;arcSize=12;absoluteArcSize=0;" parent="C2pHTevATGl-EstLI-Aq-14" vertex="1">
+          <mxGeometry x="20" y="30" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/MachinesAzureArc.svg;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="189.47" y="112" width="31.06" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-16" value="MES" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="220" width="70" height="23" as="geometry">
+            <mxRectangle x="320" y="280" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-22" value="ERP" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="130" width="70" height="23" as="geometry">
+            <mxRectangle x="320" y="223" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-23" value="EQMS" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="250" width="70" height="23" as="geometry">
+            <mxRectangle x="320" y="400" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-24" value="EAP" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="280" width="70" height="23" as="geometry">
+            <mxRectangle x="320" y="460" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-25" value="RCS" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="490" y="460" width="70" height="23" as="geometry">
+            <mxRectangle x="490" y="460" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-26" value="TPDM" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="490" y="400" width="70" height="23" as="geometry">
+            <mxRectangle x="490" y="400" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-27" value="PLS" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="190" width="70" height="23" as="geometry">
+            <mxRectangle x="490" y="280" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2pHTevATGl-EstLI-Aq-28" value="EDC" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="160" width="70" height="23" as="geometry">
+            <mxRectangle x="490" y="173" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-mpgsvMdsq3sNl20b9MQ-1" value="VIDAS" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="40" width="70" height="23" as="geometry">
+            <mxRectangle x="20" y="40" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-mpgsvMdsq3sNl20b9MQ-2" value="Tango" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="70" width="70" height="23" as="geometry">
+            <mxRectangle x="20" y="100" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-mpgsvMdsq3sNl20b9MQ-3" value="PDFs" style="swimlane;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="100" width="70" height="23" as="geometry">
+            <mxRectangle x="20" y="160" width="150" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
